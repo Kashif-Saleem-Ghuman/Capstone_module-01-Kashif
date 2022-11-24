@@ -27,7 +27,7 @@
 # 📖 Capstone Project Module 1 <a name="about-project"></a>
 
 
-In this **Capstone Project** i have developed two web pages fot a Startup Business 2022 conference i.e. "Home Page" and the "About Page". There is a mobile version and a desktop version for each page. 
+In this **Capstone Project** i have developed two web pages for a Startup Business 2022 conference i.e. "Home Page" and the "About Page". There is a mobile version and a desktop version for each page. 
 
 ## 🛠 The project is built using Html, CSS and JavaScript. <a name="built-with"></a>
 
