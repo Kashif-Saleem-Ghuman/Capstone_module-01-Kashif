@@ -66,13 +66,13 @@ const speakersCard = [
 speakersCard.map((card, index) => document
   .getElementById('Motivational-speakers').innerHTML += `
   <section class="speaker-wrapper">
-  <div class="speakers-image-container speakers-container-${index}">
+  <article class="speakers-image-container speakers-container-${index}">
   <img class="images-speaker speaker-image-${index}" src="${card.mainImage}" alt="A persons picture">
-  </div>
-  <div class="speaker-info-container">
+  </article>
+  <article class="speaker-info-container">
   <h3 class="speaker-name speaker-name-${index}">${card.name}</h3>
   <h4 class="speaker-designation speaker-designation-${index}">${card.designation}</h4>
   <hr class="speaker-underline-02">
   <p class="speaker-description speaker-description-${index}">${card.description}</p>
-  </div>
+  </article>
   </section>`);

@@ -240,7 +240,7 @@
     grid-template-columns: 20% 30% 45%;
     justify-content: start;
     align-items: center;
-    background-color: rgb(128, 128, 128, 0.7);
+    background-color: rgb(128, 128, 128, 0.4);
     margin: 2vw;
     gap: 0.5em;
     padding: 0.5em;
@@ -743,7 +743,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(128, 128, 128, 0.8);
+    background-color: rgb(128, 128, 128, 0.4);
     gap: 0.5em;
     padding: 0.5em;
   }
