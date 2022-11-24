@@ -72,8 +72,8 @@ Example commands:
 
 ```sh
   cd my-folder
+
   git clone https://github.com/Kashif-Saleem-Ghuman/Capstone_module-01-Kashif.git
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
