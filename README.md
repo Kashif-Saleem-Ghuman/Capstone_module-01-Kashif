@@ -45,7 +45,7 @@ In this **Capstone Project** i have developed two web pages for a Startup Busine
 
 > Here is link for a live demo of my project.
 
-- [Live Demo Link](https://kashif-saleem-ghuman.github.io/Kashif-Capstone--Module-1/)
+- [Live Demo Link](https://kashif-saleem-ghuman.github.io/Capstone_module-01-Kashif/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
