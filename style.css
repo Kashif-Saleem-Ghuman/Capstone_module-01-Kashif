@@ -204,9 +204,9 @@
   }
 
   .Main-program {
-    background-image: url("images/background/High_resolution_wallpaper_background_ID_77702094211.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(/images/background/pattern_bg.png);
+    background-repeat: repeat;
+    background-color: rgb(39, 42, 50);
   }
 
   .main-program-heading {
@@ -218,11 +218,14 @@
   }
 
   .main-program-underline {
-    width: 3rem;
-    height: 3px;
+    width: 53px;
+    height: 16px;
+    border-bottom: 1px solid #ef513c;
     margin: auto auto;
-    background-color: #ec5242;
-    border-radius: 1px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    margin-bottom: 6vw;
   }
 
   .main-program-container {
@@ -240,7 +243,7 @@
     grid-template-columns: 20% 30% 45%;
     justify-content: start;
     align-items: center;
-    background-color: rgb(128, 128, 128, 0.4);
+    background: rgba(255, 255, 255, 0.1);
     margin: 2vw;
     gap: 0.5em;
     padding: 0.5em;
@@ -251,12 +254,12 @@
   }
 
   .secion-headings {
-    color: #9f401f;
+    color: rgb(239, 81, 60);
     font-size: 1vw;
     font-size: 4.5vw;
     margin-bottom: 0;
     margin-top: 1.5vw;
-    font-weight: 900;
+    font-weight: 700;
   }
 
   .main-program-section p {
@@ -336,7 +339,7 @@
   }
 
   .speaker-designation {
-    color: #ec5242;
+    color: rgb(255, 79, 56);
     font-size: 3vw;
     margin-top: 2vw;
     font-style: italic;
@@ -485,7 +488,6 @@
 
   .footer-wrapper {
     margin-top: 5vw;
-    background-color: #34373a;
     height: 45vw;
   }
 
@@ -493,17 +495,43 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 2vw;
+    background-color: #272a31;
+  }
+
+  .footer-images-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 4vw;
+    margin-bottom: 5vw;
   }
 
   .partner {
-    color: white;
+    color: #d3d3d3;
     margin-top: 5vw;
     font-size: 5vw;
   }
 
-  .footer-images {
+  .footer-image1 {
     width: 20vw;
+    height: 7vw;
+  }
+
+  .footer-image2 {
+    width: 17vw;
+    height: 5vw;
+  }
+
+  .footer-image3 {
+    width: 8vw;
+    height: 7vw;
+    filter: invert(0.5);
+  }
+
+  .footer-image4 {
+    width: 30vw;
+    height: 7vw;
+    filter: invert(0.5);
   }
 
   .footer-icons-01 {
@@ -703,9 +731,9 @@
   }
 
   .Main-program {
-    background-image: url("images/background/High_resolution_wallpaper_background_ID_77702094211.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(/images/background/pattern_bg.png);
+    background-repeat: repeat;
+    background-color: rgb(39, 42, 50);
   }
 
   .main-program-heading {
@@ -718,13 +746,15 @@
   }
 
   .main-program-underline {
-    width: 3rem;
-    height: 3px;
-    background-color: #ec5242;
-    border-radius: 1px;
+    width: 53px;
+    height: 16px;
+    border-bottom: 1px solid #ef513c;
     margin-bottom: 2vw;
     left: 48%;
     position: relative;
+    border-top: none;
+    border-right: none;
+    border-left: none;
   }
 
   .main-program-container {
@@ -743,14 +773,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(128, 128, 128, 0.4);
+    background: rgba(255, 255, 255, 0.1);
     gap: 0.5em;
     padding: 0.5em;
   }
 
   .secion-headings {
-    color: #ec5242;
-    font-size: 1.2vw;
+    color: rgb(239, 81, 60);
+    font-size: 2vw;
     margin-bottom: 0;
     margin-top: 1.5vw;
     font-weight: 900;
@@ -831,13 +861,13 @@
   }
 
   .images-speaker {
-    width: 15vw;
-    height: 15vw;
+    width: 16vw;
+    height: 16vw;
   }
 
   .speaker-image-1 {
-    width: 14vw;
-    height: 15vw;
+    width: 16vw;
+    height: 16vw;
   }
 
   .speaker-name {
@@ -848,7 +878,7 @@
   }
 
   .speaker-designation {
-    color: #ec5242;
+    color: rgb(255, 79, 56);
     font-size: 1.3vw;
     margin-top: 1vw;
     font-style: italic;
@@ -909,7 +939,6 @@
 
   .footer-wrapper {
     margin-top: 5vw;
-    background-color: #34373a;
     height: 16vw;
   }
 
@@ -917,17 +946,47 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 2vw;
+    background-color: #272a31;
+  }
+
+  .about-hidden {
+    display: none;
+  }
+
+  .footer-images-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 4vw;
+    margin-bottom: 3vw;
   }
 
   .partner {
-    color: white;
+    color: #d3d3d3;
     margin-top: 5vw;
     font-size: 5vw;
   }
 
-  .footer-images {
+  .footer-image1 {
     width: 20vw;
+    height: 7vw;
+  }
+
+  .footer-image2 {
+    width: 17vw;
+    height: 5vw;
+  }
+
+  .footer-image3 {
+    width: 8vw;
+    height: 7vw;
+    filter: invert(0.5);
+  }
+
+  .footer-image4 {
+    width: 30vw;
+    height: 7vw;
+    filter: invert(0.5);
   }
 
   .footer-icons-01 {
@@ -948,6 +1007,10 @@
     justify-content: space-around;
     height: 15vw;
     align-items: center;
+  }
+
+  .Rights-res-about {
+    background-color: #272a31;
   }
 
   .exclusive-image {
@@ -1143,5 +1206,14 @@
   .unique-footer-underline {
     position: relative;
     left: 0;
+    margin-bottom: 4vw;
+  }
+
+  .about-rr-text-01 {
+    color: white;
+  }
+
+  .about-rr-text-02 {
+    color: white;
   }
 }
