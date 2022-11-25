@@ -61,7 +61,7 @@ Git should be installed on your local machine to clone it. Otherwise you can dow
 
 In order to run this project you need to clone or download the project to your local machine.
 
-Command : git clone https://github.com/Kashif-Saleem-Ghuman/Capstone_module-01-Kashif.git
+Command : git clone https://github.com/Kashif-Saleem-Ghuman/Kashif-Capstone--Module-1.git
 
 ### Setup
 
@@ -72,8 +72,8 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Kashif-Saleem-Ghuman/Kashif-Capstone--Module-1.git
-```
+
+  git clone https://github.com/Kashif-Saleem-Ghuman/Capstone_module-01-Kashif.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
