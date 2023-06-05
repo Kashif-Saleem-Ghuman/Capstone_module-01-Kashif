@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <h3><b>Startup Business Conference Web App</b></h3>
+</div>
+<a name="readme-top"></a>
+
 
 
 # 📗 Table of Contents
@@ -38,66 +43,94 @@ In this **Capstone Project** i have developed two web pages for a Startup Busine
 
 [Link](https://kashif-business-conference.netlify.app/)
 
-- [Live Demo Link](https://kashif-saleem-ghuman.github.io/Capstone_module-01-Kashif/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+## To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-Git should be installed on your local machine to clone it. Otherwise you can download the zip file.
+- Git should be installed on your local machine to clone it. Otherwise you can download the zip file.
 
-In order to run this project you need to clone or download the project to your local machine.
-
-Command : git clone https://github.com/Kashif-Saleem-Ghuman/Kashif-Capstone--Module-1.git
+- Node should be installed to use the npm package manager.
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-
-Example commands:
+- Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
+ git clone https://github.com/Kashif-Saleem-Ghuman/Capstone_module-01-Kashif.git
 
-  git clone https://github.com/Kashif-Saleem-Ghuman/Capstone_module-01-Kashif.git
+- Navigate into the cloned folder
 
+```sh
+ Capstone_module-01-Kashif
+
+```
+
+### Install
+
+- Install dev dependencies with:
+
+```sh
+ npm install
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> This project has been made by Kashif Saleem Ghuman.
+👤 **Kashif Saleem**
 
-👤 **Author1**
+- GitHub:[![Kashif](https://img.shields.io/badge/-Kashif-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Kashif-Saleem-Ghuman)
+- Twitter:[![Kashif](https://img.shields.io/badge/-Kashif-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/Kashif14Saleem)
+- LinkedIn:[![Kashif](https://img.shields.io/badge/-Kashif-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://www.linkedin.com/in/kashifsaleemghuman/)
 
-- GitHub: [@githubhandle](https://github.com/Kashif-Saleem-Ghuman)
-- Twitter: [@twitterhandle](https://twitter.com/Kashif14Saleem)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Allow users to choose a language for the application**
+- [ ] **Add all other pages which are under construction**
+- [ ] **Some UX improvements: include transitions and/or animations, etc.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Kashif-Saleem-Ghuman/Capstone_module-01-Kashif/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please do follow my Github, Linkedin and twitter. Please do endorse my project of you like it.
+If you like this project, please leave a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to give credit to Creative Commons (https://creativecommons.org/licenses/by-nc/4.0/) from which my design is inspired. Moreover i would to accredit stackoverflow, Google and Youtube which i used as resources to assisit me in building up the project.
+- I would like to thank Microverse for providing the reading materials that aided us to during the project development.
+- I would like to give Credit to 🙏 [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) the author of the original design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
