@@ -1,13 +1,6 @@
 <a name="readme-top"></a>
 
-<div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 # 📗 Table of Contents
 
@@ -43,7 +36,7 @@ In this **Capstone Project** i have developed two web pages for a Startup Busine
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Here is link for a live demo of my project.
+[Link](https://kashif-business-conference.netlify.app/)
 
 - [Live Demo Link](https://kashif-saleem-ghuman.github.io/Capstone_module-01-Kashif/)
 
